@@ -10,7 +10,7 @@ cp -r ../code/contracts ./contracts
 
 # deploy to the moonbase alpha testnet
 ```
-npx hardhat ignition deploy ./ignition/modules/glassesNFT.js --network moonbase
+npx hardhat ignition deploy ./ignition/modules/donkeyNFT.js --network moonbase
 ```
 
 # verify the contract

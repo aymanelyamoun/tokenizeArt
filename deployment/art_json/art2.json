@@ -1,11 +1,15 @@
 {
-    "name": "doncky glasses 2",
+    "name": "fech-cha doncky 42",
     "description": "42 doncky glasses 2, is a beautiful doncky representation of fech-cha, fech-cha is a very pasionate about deveops enginering, big note he doesn't want kids, this is the second token in the series",
     "image": "https://ipfs.filebase.io/ipfs/QmVvN3tx1VwarZHbWWwWWF9QphR77NBdBxmKTpWQ5TWJJB",
     "attributes": [
         {
           "trait_type": "Artist",
           "value": "ael-yamo"
+        },
+        {
+          "trait_type": "speciality",
+          "value": "throwing cigarettes to the pipes"
         }
     ]
 }
